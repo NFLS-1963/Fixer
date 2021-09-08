@@ -29,11 +29,6 @@ void udisk();
 void reg();
 int main()
 {
-	cout << "------------------------------------------------\n"
-			"             	Babonock.A Fixer\n" 
-			"           Copyright 2020-2021 by NFLSCode.\n"
-			"              All rights reserved.\n"
-			"------------------------------------------------"<<endl;
     freopen("Fixer.log","w",stdout);
     computer();
     udisk();
